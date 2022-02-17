@@ -2,9 +2,9 @@ Hi there, I'm Saurav 👋
 
 A passionate PROGRAMMER / DEVELOPER
 
-🔭 I’m currently working on learning and exploring TECHNICAL STUFFS
+I’m currently working on learning and exploring TECHNICAL STUFFS
 
-📫 How to reach me Ping me at sauravbhartiwork@gmail.com
+How to reach me Ping me at sauravbhartiwork@gmail.com
 
 Languages and Tools:
 
