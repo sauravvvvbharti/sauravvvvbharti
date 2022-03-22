@@ -18,10 +18,6 @@ Frontend
 
 HTML • CSS • Bootstrap
 
-Backend
-
-Node.JS • Express.JS
-
 Database
 
 • MySQL MongoDB
