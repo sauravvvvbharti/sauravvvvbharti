@@ -12,7 +12,7 @@ Languages and Tools:
 
 Languages
 
-•C/C++ 
+•C/C++ , Python
 
 Frontend
 
